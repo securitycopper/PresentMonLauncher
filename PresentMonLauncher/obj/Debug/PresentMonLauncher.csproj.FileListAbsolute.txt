@@ -8,3 +8,6 @@ C:\Users\cfoltz\Source\Repos\PresentMonLauncher\PresentMonLauncher\obj\Debug\Pre
 C:\Users\cfoltz\Source\Repos\PresentMonLauncher\PresentMonLauncher\obj\Debug\PresentMonLauncher.csproj.GenerateResource.Cache
 C:\Users\cfoltz\Source\Repos\PresentMonLauncher\PresentMonLauncher\obj\Debug\PresentMonLauncher.exe
 C:\Users\cfoltz\Source\Repos\PresentMonLauncher\PresentMonLauncher\obj\Debug\PresentMonLauncher.pdb
+C:\Users\cfoltz\Documents\GitHub\PresentMonLauncher\PresentMonLauncher\bin\Debug\PresentMonLauncher.exe.config
+C:\Users\cfoltz\Documents\GitHub\PresentMonLauncher\PresentMonLauncher\obj\Debug\PresentMonLauncher.exe
+C:\Users\cfoltz\Documents\GitHub\PresentMonLauncher\PresentMonLauncher\obj\Debug\PresentMonLauncher.pdb
